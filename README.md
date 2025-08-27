@@ -47,11 +47,9 @@ I’m passionate about building scalable applications, optimizing workflows, and
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 **🚀 DevOps & Cloud**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-A5A5A5?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,8 +61,6 @@ I’m passionate about building scalable applications, optimizing workflows, and
 **📈 Monitoring & Workflow**  
 <img src="https://img.shields.io/badge/Camunda-F01F26?style=for-the-badge&logo=camunda&logoColor=white" />
 <img src="https://img.shields.io/badge/SigNoz-FF6C37?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
 **🧰 Tools**  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
