@@ -1,18 +1,8 @@
 # Hi there, I'm Bzuayehu 👋  
 
-🚀 **Full-Stack Developer | Java (Spring Boot) & MERN | DevOps Enthusiast**  
+## 🚀 About Me
 
-I’m passionate about building scalable applications, optimizing workflows, and delivering impactful solutions. My experience spans **frontend & backend development, DevOps, process automation, and application monitoring**.  
-
----
-
-## 🔥 What I’ve Worked On  
-- **Full-Stack Projects** using **MERN**, **Spring Boot**, & **Django** with clean architecture and best practices  
-- **Authentication & Security:** Integrated **Keycloak** with **Google reCAPTCHA**  
-- **Monitoring & Tracing:** Implemented distributed tracing with **SigNoz**  
-- **Workflow Automation:** Designed **case tracking systems** with **Camunda BPM**  
-- **CI/CD Pipelines:** Built automated pipelines for integration & deployment using **Jenkins** & **GitHub Actions**  
-- **Quality Assurance:** Led **regression testing** to ensure product stability  
+a **Full-Stack Developer** passionate about building scalable applications, optimizing workflows, and delivering impactful solutions. I specialize in **Java (Spring Boot), MERN, and Django** stacks, and my experience spans **frontend & backend development, DevOps, process automation, and application monitoring**. I’ve worked on **full-stack projects** with clean architecture and best practices, implemented **authentication & security** solutions using **Keycloak** with **Google reCAPTCHA**, and integrated **monitoring & tracing** with **SigNoz**. Additionally, I have designed **workflow automation systems** using **Camunda BPM**, built **CI/CD pipelines** for integration and deployment with **Jenkins** & **GitHub Actions**, and led **regression testing** to ensure product stability. I’m continuously improving my **DevOps & cloud skills**, contributing to open-source projects, and exploring **observability and process automation tools**.
 
 ---
 
