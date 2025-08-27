@@ -6,16 +6,6 @@ I’m passionate about building scalable applications, optimizing workflows, and
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-- **Frontend:** React, Redux, TailwindCSS, JavaScript, TypeScript  
-- **Backend:** Java, Spring Boot, Node.js, Express  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Tools:** Docker, Jenkins, GitHub Actions, Keycloak, SigNoz, Camunda BPM  
-- **Testing & QA:** Regression Testing, Postman, Newman  
-- **Other:** REST APIs, Authentication (Keycloak + reCAPTCHA), CI/CD pipelines  
-
----
-
 ## 🔥 What I’ve Worked On  
 - **Full-Stack Projects** using **MERN** & **Spring Boot** with clean architecture and best practices  
 - **Authentication & Security:** Integrated **Keycloak** with **Google reCAPTCHA**  
@@ -33,9 +23,40 @@ I’m passionate about building scalable applications, optimizing workflows, and
 
 ---
 
+## 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Camunda-F01F26?style=for-the-badge&logo=camunda&logoColor=white" />
+  <img src="https://img.shields.io/badge/SigNoz-FF6C37?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bzuayehu&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bzuayehu&layout=compact&theme=radical" height="180em" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
-- **LinkedIn:** www.linkedin.com/in/bzuayehu-mamuye-92a13723a 
-- **Email:** bizuayehuagide@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/bzuayehu-mamuye-92a13723a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bizuayehuagide@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
