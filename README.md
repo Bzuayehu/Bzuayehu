@@ -25,7 +25,7 @@ I’m passionate about building scalable applications, optimizing workflows, and
 
 ## 🛠️ Tech Stack & Tools  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -47,7 +47,7 @@ I’m passionate about building scalable applications, optimizing workflows, and
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Bzuayehu&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bzuayehu&layout=compact&theme=radical" height="180em" />
 </p>
@@ -55,7 +55,7 @@ I’m passionate about building scalable applications, optimizing workflows, and
 ---
 
 ## 📫 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bzuayehu-mamuye-92a13723a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bizuayehuagide@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
