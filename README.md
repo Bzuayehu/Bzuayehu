@@ -16,13 +16,6 @@ I’m passionate about building scalable applications, optimizing workflows, and
 
 ---
 
-## 📈 Current Focus  
-- Improving my **DevOps & Cloud skills** (Docker, Kubernetes, CI/CD at scale)  
-- Building **open-source contributions** in Java, React, Django & JavaScript ecosystems  
-- Exploring **observability and process automation tools**  
-
----
-
 ## 🛠️ Tech Stack & Tools  
 
 <p align="left">
